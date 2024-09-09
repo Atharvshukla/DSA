@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1325-path-with-maximum-probability](https://github.com/Atharvshukla/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2411-spiral-matrix-iv](https://github.com/Atharvshukla/DSA/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -22,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -49,6 +51,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2411-spiral-matrix-iv](https://github.com/Atharvshukla/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
