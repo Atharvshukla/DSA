@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Atharvshukla/DSA/tree/master/1325-path-with-maximum-probability) |
 | [2411-spiral-matrix-iv](https://github.com/Atharvshukla/DSA/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/Atharvshukla/DSA/tree/master/2411-spiral-matrix-iv) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
