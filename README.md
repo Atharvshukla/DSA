@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Atharvshukla/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Atharvshukla/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 <!---LeetCode Topics End-->
