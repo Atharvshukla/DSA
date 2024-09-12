@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Atharvshukla/DSA/tree/master/1325-path-with-maximum-probability) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Atharvshukla/DSA/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Atharvshukla/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -67,8 +69,14 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Atharvshukla/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
