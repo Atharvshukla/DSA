@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Atharvshukla/DSA/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Atharvshukla/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Atharvshukla/DSA/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Atharvshukla/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Atharvshukla/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
