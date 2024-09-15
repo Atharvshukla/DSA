@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Atharvshukla/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Atharvshukla/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Atharvshukla/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Atharvshukla/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -72,11 +73,13 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/Atharvshukla/DSA/tree/master/0090-subsets-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Atharvshukla/DSA/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Atharvshukla/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Atharvshukla/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## String
 |  |
 | ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Atharvshukla/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Atharvshukla/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Atharvshukla/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Counting
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Atharvshukla/DSA/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Atharvshukla/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Brainteaser
 |  |
 | ------- |
