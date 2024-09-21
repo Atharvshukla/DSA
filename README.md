@@ -48,6 +48,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Atharvshukla/DSA/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/Atharvshukla/DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Atharvshukla/DSA/tree/master/0539-minimum-time-difference) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Atharvshukla/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
